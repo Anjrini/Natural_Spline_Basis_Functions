@@ -6,11 +6,11 @@ The values needed to be supplies to the function ist:
 - x: a vector of the variable
 - knots: the location of the knots to be considered
 
-  The function returns a matrix of the basis functions to be used to regressions.
+The function returns a matrix of the basis functions to be used to regressions.
 
-  At the end of the code I have added a comparison between my implementation and that of R called "ns" using the library Splines.
+At the end of the code I have added a comparison between my implementation and that of R called "ns" using the library Splines.
 
-  Should you have any query, please contact me.
+Should you have any query, please contact me.
 
-  Best Regards,
-  Mustafa Anjrini on 06.09.2024
+Best Regards,
+Mustafa Anjrini on 06.09.2024
